@@ -1,10 +1,8 @@
 # Hola, soy Diego!
 
-![Profile Views](https://komarev.com/ghpvc/?username=sallco&color=abd200&style=flat-square&label=Profile+Views)
-
 Estudiante de tercer año en Ingeniería en Ciencias de la Computación y Tecnologías de la Información en la Universidad del Valle de Guatemala. Desarrollador full-stack con interés particular en ciencia de datos, Inteligencia Artificial y desarrollo web, siempre buscando entender cómo funcionan las cosas a bajo nivel y construir herramientas que resuelvan problemas reales.
 
-Fuera del código disfruto la música, el cine, los videojuegos y todo lo relacionado con el espacio. Disponible para internships, proyectos freelance y posiciones junior en desarrollo web o ciencia de datos.
+Fuera del código disfruto la música, el cine, los videojuegos y todo lo relacionado con el espacio. Disponible para internships, proyectos freelance y posiciones junior en desarrollo web  o ciencia de datos.
 
 ---
 
@@ -66,6 +64,7 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallco&theme=merko)
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=merko&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280)
 
+
 </div>
 
 <div align="center">
@@ -74,11 +73,6 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 
 </div>
 
-<div align="center">
-
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sallco&theme=merko)](https://github.com/sallco)
-
-</div>
 
 <div align="center">
 
@@ -100,5 +94,5 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 
 ## Encuéntrame
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat&logo=vercel&logoColor=white)](https://sallco.github.io/grapholio/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dcalderon918@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sallco.github.io/grapholio/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcalderon918@gmail.com)
