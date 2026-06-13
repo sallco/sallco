@@ -75,7 +75,7 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 
 <div align="center">
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallco&theme=gotham&utcOffset=-6)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallco&theme=gotham&utcOffset=-6" width="100%" alt="Productive Time" />
 
 </div>
 
