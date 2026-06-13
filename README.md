@@ -68,14 +68,13 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 <div align="center">
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallco&theme=gotham)
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=gotham&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280)
-
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallco&theme=gotham&utcOffset=-6)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallco&theme=gotham&utcOffset=-6" width="100%" alt="Productive Time" />
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=gotham&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=800)
 
 </div>
 
