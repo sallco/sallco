@@ -15,7 +15,6 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -55,21 +54,21 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallco&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sallco&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallco&theme=merko)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sallco&theme=merko)
 
 </div>
 
 <div align="center">
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallco&theme=tokyonight)
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=tokyonight&hide_border=true&background=0D1117&hide=current_streak,longest_streak)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallco&theme=merko)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=merko&hide_border=true&hide=current_streak,longest_streak)
 
 </div>
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sallco&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true)](https://github.com/sallco)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sallco&theme=merko&hide_border=true&area=true)](https://github.com/sallco)
 
 </div>
 
