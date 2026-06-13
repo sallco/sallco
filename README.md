@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hola, soy Diego!
 
-<!--
-**sallco/sallco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de tercer año en Ingeniería en Ciencias de la Computación y Tecnologías de la Información en la Universidad del Valle de Guatemala. Desarrollador full-stack con interés particular en ciencia de datos y desarrollo web, siempre buscando entender cómo funcionan las cosas a bajo nivel y construir herramientas que resuelvan problemas reales.
 
-Here are some ideas to get you started:
+Fuera del código disfruto la música, el cine, los videojuegos y todo lo relacionado con el espacio. Disponible para internships, proyectos freelance y posiciones junior en desarrollo web full-stack o ciencia de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+**Lenguajes**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks y Librerías**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+**Bases de Datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Infraestructura y DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Linux**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=flat&logo=endeavouros&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallco&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sallco&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallco&theme=tokyonight)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=tokyonight&hide_border=true&background=0D1117&hide=current_streak,longest_streak)
+
+</div>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sallco&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true)](https://github.com/sallco)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sallco/sallco/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sallco/sallco/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sallco/sallco/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Encuéntrame
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat&logo=vercel&logoColor=white)](https://sallco.github.io/grapholio/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dcalderon918@gmail.com)
