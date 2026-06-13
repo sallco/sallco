@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sallco&color=abd200&style=flat-square&label=Profile+Views)   
+![Profile Views](https://komarev.com/ghpvc/?username=sallco&color=2AA889&style=flat-square&label=Profile+Views)   
 
 </div>
 
@@ -60,29 +60,29 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallco&theme=merko)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sallco&theme=merko)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallco&theme=gotham)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sallco&theme=gotham)
 
 </div>
 
 <div align="center">
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallco&theme=merko)
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=merko&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallco&theme=gotham)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=gotham&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280)
 
 
 </div>
 
 <div align="center">
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallco&theme=merko&utcOffset=-6)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallco&theme=gotham&utcOffset=-6)
 
 </div>
 
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sallco&theme=merko&hide_border=true&area=true)](https://github.com/sallco)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sallco&theme=gotham&hide_border=true&area=true)](https://github.com/sallco)
 
 </div>
 
