@@ -64,7 +64,7 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 <div align="center">
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallco&theme=merko)
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=merko&hide_border=true&hide=current_streak,longest_streak)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=sallco&theme=merko&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280)
 
 </div>
 
