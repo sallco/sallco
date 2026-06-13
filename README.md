@@ -70,6 +70,18 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 
 <div align="center">
 
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallco&theme=merko&utcOffset=-6)
+
+</div>
+
+<div align="center">
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sallco&theme=merko)](https://github.com/sallco)
+
+</div>
+
+<div align="center">
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sallco&theme=merko&hide_border=true&area=true)](https://github.com/sallco)
 
 </div>
