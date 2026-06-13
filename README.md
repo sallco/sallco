@@ -1,5 +1,12 @@
 # Hola, soy Diego!
 
+div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sallco&color=abd200&style=flat-square&label=Profile+Views)   
+
+</div>
+
+
 Estudiante de tercer año en Ingeniería en Ciencias de la Computación y Tecnologías de la Información en la Universidad del Valle de Guatemala. Desarrollador full-stack con interés particular en ciencia de datos, Inteligencia Artificial y desarrollo web, siempre buscando entender cómo funcionan las cosas a bajo nivel y construir herramientas que resuelvan problemas reales.
 
 Fuera del código disfruto la música, el cine, los videojuegos y todo lo relacionado con el espacio. Disponible para internships, proyectos freelance y posiciones junior en desarrollo web  o ciencia de datos.
