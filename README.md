@@ -1,6 +1,6 @@
 # Hola, soy Diego!
 
-div align="center">
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sallco&color=abd200&style=flat-square&label=Profile+Views)   
 
