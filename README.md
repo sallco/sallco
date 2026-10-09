@@ -9,7 +9,7 @@
 
 Estudiante de tercer año en Ingeniería en Ciencias de la Computación y Tecnologías de la Información en la Universidad del Valle de Guatemala. Desarrollador full-stack con interés particular en ciencia de datos, Inteligencia Artificial y desarrollo web, siempre buscando entender cómo funcionan las cosas a bajo nivel y construir herramientas que resuelvan problemas reales.
 
-Fuera del código disfruto la música, el cine, los videojuegos y todo lo relacionado con el espacio. Disponible para internships, proyectos freelance y posiciones junior en desarrollo web  o ciencia de datos.
+Fuera del código disfruto la música, el cine, los videojuegos y todo lo relacionado con el espacio.
 
 ---
 
@@ -31,7 +31,6 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -46,7 +45,6 @@ Fuera del código disfruto la música, el cine, los videojuegos y todo lo relaci
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 **Linux**
 
